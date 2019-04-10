@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/kidepo"
+    android:title="kidepo park"
+        app:showAsAction="never"
+    />
+    <item android:id="@+id/murch"
+        android:title="Murchison fall"
+        app:showAsAction="never"
+        />
+    <item android:id="@+id/bwin"
+    android:title="Bwindi park"
+    app:showAsAction="never"
+    />
+    <item android:id="@+id/list"
+        android:title="More Information"
+        app:showAsAction="never"
+        />
+</menu>
